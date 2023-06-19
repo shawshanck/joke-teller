@@ -13,9 +13,10 @@ function toggleButton() {
 }
 
 // Passing Jokes to VoiceRSS API
+// https://voicerss.org/
 function tellMe(joke) {
     VoiceRSS.speech({
-        key: 'c460a7f16df34ba5b5565adaae740eef',
+        key: 'API-KEY',
         src: joke,
         hl: 'en-us',
         v: 'Linda',

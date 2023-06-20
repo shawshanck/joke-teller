@@ -13,7 +13,7 @@ Skills that I learned by doing this project:
 * CSS: Responsive coding, styling button and using Pseudo Classes like mouse "hover".
 * JavaScript: Calling HTML elements, using 2 different APIs, one for jokes text and another for converting text to audio. Creating function to toggle button disabled/enabled. Button also uses additional "eventlistener" to stay disabled while jokes audio is being played.
 
-Note: You should get your own API Key from https://voicerss.org/ and replace it in line 19 of script.js.
+> **Note**: You should get your own API Key from https://voicerss.org/ and replace it in line 19 of script.js.
 
 I am learning from others and practicing projects to improve my skills and also sharing my experiences with people. I will study and learn more with encouragement I get from you.
 
